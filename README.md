@@ -1,4 +1,4 @@
-# 🚀 Load Balancer with iptables & Apache Assignment 1
+# 🚀 Load Balancer with iptables & Apache OPS345 Assignment 1
 
 A production-like load balancing system built on AWS, distributing traffic across 4 web servers using iptables NAT rules, with automated file synchronization via rsync and cron.
 
