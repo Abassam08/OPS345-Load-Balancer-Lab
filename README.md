@@ -1324,6 +1324,9 @@ tar -tzf asg1.tar.gz
 
 # Submit asg1.tar.gz to Blackboard
 ```
+### ☕ Support the Project
+If this guide helped you, consider supporting my work:  
+https://buymeacoffee.com/Asabra1
 
 ---
 
